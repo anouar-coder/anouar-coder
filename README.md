@@ -232,15 +232,9 @@ collaboration within development teams.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anouar-coder&show_icons=true&hide_border=true&bg_color=0a0e14&title_color=F59E0B&text_color=e6edf3&icon_color=06B6D4&stroke_color=0a0e14&rank=-A" alt="Anwar Ben Brahim's GitHub stats" width="49%">&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=anouar-coder&layout=compact&hide_border=true&bg_color=0a0e14&title_color=F59E0B&text_color=e6edf3&stroke_color=0a0e14" alt="Top languages" width="24%">&nbsp;&nbsp;
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=anouar-coder&hide_border=true&background_color=0a0e14&stroke_color=0a0e14&ring=F59E0B&fire=F59E0B&currStreakNum=06B6D4&sideLabels=06B6D4&currStreakLabel=06B6D4&sideNums=e6edf3&dates=e6edf3" alt="Contribution streak" width="27%">
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anouar-coder&hide_border=true&bg_color=0a0e14&color=F59E0B&line=F59E0B&area=06B6D4&point=06B6D4&point_border=161b22&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="100%">
+<a href="https://github.com/anouar-coder?tab=repositories"><img height="165" src="https://github-readme-stats-five.vercel.app/api?username=anouar-coder&show_icons=true&hide_border=true&bg_color=0a0e14&title_color=F59E0B&text_color=e6edf3&icon_color=06B6D4&stroke_color=0a0e14&rank=-A" alt="Anwar Ben Brahim's GitHub stats" width="49%"></a>&nbsp;&nbsp;
+<a href="https://github.com/anouar-coder?tab=repositories"><img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=anouar-coder&layout=compact&hide_border=true&bg_color=0a0e14&title_color=F59E0B&text_color=e6edf3&stroke_color=0a0e14" alt="Top languages" width="24%"></a>&nbsp;&nbsp;
+<a href="https://github.com/anouar-coder"><img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=anouar-coder&hide_border=true&background_color=0a0e14&stroke_color=0a0e14&ring=F59E0B&fire=F59E0B&currStreakNum=06B6D4&sideLabels=06B6D4&currStreakLabel=06B6D4&sideNums=e6edf3&dates=e6edf3" alt="Contribution streak" width="27%"></a>
 
 </div>
 
