@@ -13,6 +13,6 @@
     <text x="30" y="155" fill="#39FF88">$ <tspan fill="#E6F1FF">cat focus.txt</tspan></text>
     <text x="30" y="183" fill="#22D3EE">AI for Cybersecurity · Intrusion Detection · Explainable AI</text>
 
-    <text x="30" y="225" fill="#39FF88">$ <tspan fill="#E6F1FF">echo $CURRENTLY</tspan>  <tspan fill="#22D3EE">Master's SYSCOM · MDR platforms · access-control models</tspan></text>
+    <text x="30" y="225" fill="#39FF88">$ <tspan fill="#E6F1FF">echo $CURRENTLY</tspan>  <tspan fill="#22D3EE">Master's SYSCOM</tspan></text>
   </g>
 </svg>
