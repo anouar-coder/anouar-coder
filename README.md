@@ -37,7 +37,7 @@
 <br>
 
 Computer engineering student at **ENIT** with hands-on experience across **artificial intelligence,
-machine learning and cybersecurity** — spanning academic, research and engineering work.
+machine learning and cybersecurity** — spanning academic, and engineering work.
 
 I like the part of the machine you don't see: from network traffic and attack traces to
 explainable models. My focus is **AI for security** — using machine learning to detect threats,
@@ -47,15 +47,7 @@ and reasoning about systems adversarially.
 | :-- | :-- |
 | **Studying** | Computer Engineering — ENIT · Master's SYSCOM (Systems & Communications) |
 | **Focus** | AI for Cybersecurity · Intrusion & Anomaly Detection · Explainable AI |
-| **Building** | Managed detection & response platforms, formal access-control models, geospatial ML |
 | **Languages** | Arabic · French · English |
-| **Status** | Open to internships, stages and research collaborations |
-
-### Research Interests
-
-`AI for Cybersecurity` · `Network & IoT Security` · `Intrusion Detection` · `Anomaly Detection` ·
-`Explainable AI` · `LLMs for Security` · `Intelligent Threat Detection` · `Network Traffic Analysis` ·
-`Formal Methods for Access Control`
 
 ---
 
@@ -172,15 +164,9 @@ and network captures to investigate behaviour.
 
 </td><td width="50%" valign="top">
 
-### Name Matching Engine
-**Deduplication at scale**
 
-Efficient application to search, compare and eliminate duplicates across large name
-lists.
 
-**`Java`**
 
-</td></tr>
 </table>
 
 ---
@@ -330,7 +316,7 @@ Live project demos · case studies · certifications · full academic reports ·
 
 ## Let's Build Something Together
 
-Open to **internships**, **stages** and **research collaborations** on AI or security projects.
+Open to **internships** on AI or security projects.
 
 <div align="center">
 
