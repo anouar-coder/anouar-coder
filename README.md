@@ -5,16 +5,16 @@
   <br><br>
 
   <a href="https://brilliant-cs-folio-a8p1.vercel.app/">
-    <img src="https://img.shields.io/badge/%F0%9F%8F%B0%20Portfolio%20%E2%80%A2%20brilliant--cs--folio--a8p1.vercel.app-F0D98C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2A0620" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio%20%E2%80%A2%20brilliant--cs--folio--a8p1.vercel.app-F0D98C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2A0620" alt="Portfolio">
   </a>
   <a href="https://brilliant-cs-folio-a8p1.vercel.app/cv-anwar-ben-brahim.pdf">
-    <img src="https://img.shields.io/badge/%F0%9F%93%BC%20Curriculum%20Vitae-F6E7B4?style=for-the-badge&logo=readdotcv&logoColor=4A0C45&labelColor=2A0620" alt="Download CV">
+    <img src="https://img.shields.io/badge/Curriculum%20Vitae-F6E7B4?style=for-the-badge&logo=readdotcv&logoColor=4A0C45&labelColor=2A0620" alt="Download CV">
   </a>
   <a href="https://www.linkedin.com/in/anwar-ben-brahim-68626034a/">
     <img src="https://img.shields.io/badge/LinkedIn%20%E2%80%A2%20anwar--ben--brahim-C77BA8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2A0620" alt="LinkedIn">
   </a>
   <a href="mailto:anwar.benbrahim@etudiant-enit.utm.tn">
-    <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-F0D98C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2A0620" alt="Email">
+    <img src="https://img.shields.io/badge/Email-F0D98C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2A0620" alt="Email">
   </a>
 
   <br><br>
@@ -22,32 +22,19 @@
   <img src="https://img.shields.io/badge/Status%20%E2%80%A2%20Open%20to%20Internships%20%26%20Research%20Collaborations-4CC38A?style=for-the-badge&labelColor=2A0620" alt="Open to internships">
   <img src="https://img.shields.io/badge/Focus%20%E2%80%A2%20AI%20for%20Security-C77BA8?style=for-the-badge&labelColor=2A0620" alt="Focus">
 
-  <br><br>
-
-  <img src="./assets/velvet-divider.svg" alt="" width="620">
-
 </div>
 
 <br>
+
+## About
 
 <div align="center">
 
-```bash
-$ whoami
-Anwar Ben Brahim — final-year Computer Engineering student @ ENIT
-
-$ focus
-AI for cybersecurity · network anomaly & intrusion detection · explainable AI
-
-$ currently
-building an AI-driven MDR platform · open to internships & research collaborations
-```
+  <img src="./assets/terminal.svg" alt="Terminal: whoami, focus, currently" width="100%">
 
 </div>
 
 <br>
-
-## 🧠 About
 
 Computer engineering student at **ENIT** with hands-on experience across **artificial intelligence,
 machine learning and cybersecurity** — spanning academic, research and engineering work.
@@ -58,11 +45,11 @@ and reasoning about systems adversarially.
 
 | | |
 | :-- | :-- |
-| 🎓 **Studying** | Computer Engineering — ENIT · Master's SYSCOM (Systems & Communications) |
-| 🧭 **Focus** | AI for Cybersecurity · Intrusion & Anomaly Detection · Explainable AI |
-| 🛠️ **Building** | Managed detection & response platforms, formal access-control models, geospatial ML |
-| 🗣️ **Languages** | Arabic · French · English |
-| 📬 **Status** | Open to internships, stages and research collaborations |
+| **Studying** | Computer Engineering — ENIT · Master's SYSCOM (Systems & Communications) |
+| **Focus** | AI for Cybersecurity · Intrusion & Anomaly Detection · Explainable AI |
+| **Building** | Managed detection & response platforms, formal access-control models, geospatial ML |
+| **Languages** | Arabic · French · English |
+| **Status** | Open to internships, stages and research collaborations |
 
 ### Research Interests
 
@@ -74,7 +61,7 @@ and reasoning about systems adversarially.
 
 <img src="./assets/velvet-divider.svg" alt="" width="620">
 
-## 🧪 AI & Machine Learning
+## AI and Machine Learning
 
 <table>
 <tr><td width="50%" valign="top">
@@ -103,7 +90,7 @@ VirtualBox environment.
 End-to-end pipeline turning raw EEG signals into features for automatic detection of
 seizure periods.
 
-- Signal preprocessing & noise removal
+- Signal preprocessing and noise removal
 - Feature extraction over time-domain and frequency-domain signals
 - Classification stage for seizure-period detection
 
@@ -124,7 +111,7 @@ platform for spatial predictions.
 
 </td><td width="50%" valign="top">
 
-### Crisis & Absenteeism Modelling
+### Crisis and Absenteeism Modelling
 **Data mining pipeline · `Python`**
 
 Feature construction and model evaluation over crisis/absenteeism datasets — `.mat`
@@ -140,7 +127,7 @@ the data.
 
 <img src="./assets/velvet-divider.svg" alt="" width="620">
 
-## 🛡️ Cybersecurity
+## Cybersecurity
 
 <table>
 <tr><td width="50%" valign="top">
@@ -151,7 +138,7 @@ the data.
 Formal access-control design for e-health systems, validated with model checking and
 backed by an Ethereum prototype with immutable audit logs.
 
-- Formal specification & verification in **HLPSL**, model-checked with **AVISPA**
+- Formal specification and verification in **HLPSL**, model-checked with **AVISPA**
 - Blockchain prototype — **Ethereum · Solidity · Ganache · Node.js / Express**
 - Role-based dashboards, JWT auth, `bcryptjs`, rate limiting
 - Clinical data kept **off-chain**, only hashes anchored on-chain
@@ -177,9 +164,9 @@ backed by an Ethereum prototype with immutable audit logs.
 ### Malware Analysis — PFA1
 **Static · dynamic · hybrid analysis**
 
-Full analysis of a ransomware variant in a controlled lab: file typing & hashing, string
-analysis, unpacking and VM-detection techniques, using VirusTotal, PEStudio and network
-captures to investigate behaviour.
+Full analysis of a ransomware variant in a controlled lab: file typing and hashing,
+string analysis, unpacking and VM-detection techniques, using VirusTotal, PEStudio
+and network captures to investigate behaviour.
 
 **`C++ · FLARE VM · REMnux · Wireshark`**
 
@@ -200,12 +187,12 @@ lists.
 
 <img src="./assets/velvet-divider.svg" alt="" width="620">
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <table>
 <tr><td valign="top" width="33%">
 
-**🤖 AI & Data**
+**AI and Data**
 
 `Machine Learning` `Deep Learning` `Data Mining`
 `Classification` `Anomaly Detection` `Feature Engineering`
@@ -213,15 +200,15 @@ lists.
 
 </td><td valign="top" width="33%">
 
-**🛡️ Security & Networks**
+**Security and Networks**
 
 `Network Security` `Intrusion Detection` `Traffic Analysis`
-`Threat Detection & Response` `Access Control` `Malware Analysis`
+`Threat Detection and Response` `Access Control` `Malware Analysis`
 `MITRE ATT&CK / D3FEND`
 
 </td><td valign="top" width="34%">
 
-**💻 Languages & Tools**
+**Languages and Tools**
 
 `Python` `Java` `C / C++` `C#` `Dart` `TypeScript`
 `Scikit-learn` `SHAP` `Node.js` `Java EE` `MySQL`
@@ -233,7 +220,7 @@ lists.
 
 ---
 
-## 💼 Experience
+## Experience
 
 <table>
 <tr><td valign="top">
@@ -242,7 +229,7 @@ lists.
 RFC — Réseaux, Formation, Conseil
 `06/2026 — 07/2026`
 
-Designed a managed detection & response platform for network threat detection in an
+Designed a managed detection and response platform for network threat detection in an
 isolated VirtualBox environment. Trained a Random Forest classifier on NFStream flow
 features with SHAP explainability and MITRE ATT&CK / D3FEND mapping, and built a
 real-time detection dashboard with semi-automated response.
@@ -271,32 +258,32 @@ collaboration within development teams.
 
 ---
 
-## 🎓 Education & Certifications
+## Education and Certifications
 
 | Period | Institution | Detail |
 | :-- | :-- | :-- |
 | `09/2024 — Present` | **ENIT** | Computer Engineering — École Nationale d'Ingénieurs |
-| `Sep 2025 — Present` | **ENIT** | Master's SYSCOM — Systems & Communications |
-| `09/2022 — 06/2024` | **IPEIN** | Preparatory Cycle — Mathematics & Physics |
+| `Sep 2025 — Present` | **ENIT** | Master's SYSCOM — Systems and Communications |
+| `09/2022 — 06/2024` | **IPEIN** | Preparatory Cycle — Mathematics and Physics |
 
 **Certifications** — `CCNAv7 Introduction to Networks` · `Opus Lab Web Development`
 
-**Clubs & Leadership**
+**Clubs and Leadership**
 - **Senior Member**, ENIT Junior Entreprise (`09/2025 — 08/2026`) — managed client-oriented projects, contributed to two client projects, presented at Forum ENIT Entreprise.
 - **Active Member**, ENIT Junior Entreprise (`10/2024 — 08/2025`) — project management, teamwork and professionalism.
-- **SecuriNets ENIT** — cybersecurity workshops & Capture The Flag competitions.
+- **SecuriNets ENIT** — cybersecurity workshops and Capture The Flag competitions.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/anouar-coder?tab=repositories">
-  <img height="170" src="https://github-readme-stats-five.vercel.app/api?username=anouar-coder&show_icons=true&hide_border=true&bg_color=1A0620&title_color=F0D98C&text_color=EBD9EC&icon_color=C77BA8&stroke_color=1A0620&ring=6E1253&rank=-A" alt="Anwar Ben Brahim's GitHub stats" width="49%">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anouar-coder&show_icons=true&hide_border=true&bg_color=1A0620&title_color=F0D98C&text_color=EBD9EC&icon_color=C77BA8&stroke_color=1A0620&ring=6E1253&rank=-A" alt="Anwar Ben Brahim's GitHub stats" width="49%">
 </a>&nbsp;&nbsp;
 <a href="https://github.com/anouar-coder?tab=repositories">
-  <img height="170" src="https://github-readme-stats-five.vercel.app/api/top-langs?username=anouar-coder&layout=compact&hide_border=true&bg_color=1A0620&title_color=F0D98C&text_color=EBD9EC&stroke_color=1A0620" alt="Top languages" width="24%">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=anouar-coder&layout=compact&hide_border=true&bg_color=1A0620&title_color=F0D98C&text_color=EBD9EC&stroke_color=1A0620" alt="Top languages" width="24%">
 </a>&nbsp;&nbsp;
 <a href="https://github.com/anouar-coder">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=anouar-coder&hide_border=true&background_color=1A0620&stroke_color=1A0620&ring=6E1253&fire=F0D98C&currStreakNum=C77BA8&sideLabels=C77BA8&currStreakLabel=C77BA8&sideNums=EBD9EC&dates=EBD9EC" alt="Contribution streak" width="27%">
@@ -306,45 +293,42 @@ collaboration within development teams.
 
 ---
 
-## 📦 Repositories
+## Repositories
 
 | Repository | Stack | Description |
 | :-- | :-- | :-- |
 | **[Anwar_BenBrahim](https://github.com/anouar-coder/Anwar_BenBrahim)** | `TypeScript` | Portfolio site — React, animations and interactive sections |
-| **[ehealth_project_pfa2](https://github.com/anouar-coder/ehealth_project_pfa2)** | `JavaScript` `Solidity` | E-Health blockchain platform — Ethereum, JWT auth, role dashboards |
 | **[geospatial-project-flood-risk](https://github.com/anouar-coder/geospatial-project-flood-risk)** | `Python` | Geospatial flood-risk ML pipeline + interactive risk mapping webapp |
-| **[CRISES-ABSENCES](https://github.com/anouar-coder/CRISES-ABSENCES)** | `Python` | Crisis/absenteeism data mining — feature building & `LeaveOneGroupOut` models |
-| **[Malware-Analysis](https://github.com/anouar-coder/Malware-Analysis)** | `C++` | Malware analysis coursework — static analysis methodology & lab notes |
+| **[CRISES-ABSENCES](https://github.com/anouar-coder/CRISES-ABSENCES)** | `Python` | Crisis/absenteeism data mining — feature building and `LeaveOneGroupOut` models |
+| **[Malware-Analysis](https://github.com/anouar-coder/Malware-Analysis)** | `C++` | Malware analysis coursework — static analysis methodology and lab notes |
 | **[pilates_app](https://github.com/anouar-coder/pilates_app)** | `Dart` | Flutter studio manager — Firebase, Stripe, realtime messaging |
-| **[RechercheNom-MiniprojetJava](https://github.com/anouar-coder/RechercheNom-MiniprojetJava)** | `Java` | Name matching engine — search & deduplicate large name lists |
-| **[loops-website-client](https://github.com/anouar-coder/loops-website-client)** | `TypeScript` | Front-end client application |
+| **[RechercheNom-MiniprojetJava](https://github.com/anouar-coder/RechercheNom-MiniprojetJava)** | `Java` | Name matching engine — search and deduplicate large name lists |
 | **[SmurfGame-C-](https://github.com/anouar-coder/SmurfGame-C-)** | `C#` | Game developed in C# |
-| **[jee-2info2](https://github.com/anouar-coder/jee-2info2)** | `Java` | Java coursework |
 
 ---
 
-## 🌐 Want the full picture?
+## Want the full picture?
 
 <div align="center">
 
-### ✨ **[brilliant-cs-folio-a8p1.vercel.app](https://brilliant-cs-folio-a8p1.vercel.app/)**
+### [brilliant-cs-folio-a8p1.vercel.app](https://brilliant-cs-folio-a8p1.vercel.app/)
 
 Live project demos · case studies · certifications · full academic reports · contact
 
 <br>
 
 <a href="https://brilliant-cs-folio-a8p1.vercel.app/">
-  <img src="https://img.shields.io/badge/%F0%9F%8F%B0%20Visit%20Portfolio-F0D98C?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2A0620" alt="Visit portfolio">
+  <img src="https://img.shields.io/badge/Visit%20Portfolio-F0D98C?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2A0620" alt="Visit portfolio">
 </a>
 <a href="https://brilliant-cs-folio-a8p1.vercel.app/cv-anwar-ben-brahim.pdf">
-  <img src="https://img.shields.io/badge/%F0%9F%93%BC%20Download%20CV-F6E7B4?style=for-the-badge&logo=readdotcv&logoColor=4A0C45&labelColor=2A0620" alt="Download CV">
+  <img src="https://img.shields.io/badge/Download%20CV-F6E7B4?style=for-the-badge&logo=readdotcv&logoColor=4A0C45&labelColor=2A0620" alt="Download CV">
 </a>
 
 </div>
 
 ---
 
-## 🤝 Let's Build Something Together
+## Let's Build Something Together
 
 Open to **internships**, **stages** and **research collaborations** on AI or security projects.
 
@@ -362,16 +346,10 @@ Open to **internships**, **stages** and **research collaborations** on AI or sec
 
 <br><br>
 
-```bash
-$ echo "Let's build something together."
-```
-
-<br>
-
 <img src="./assets/velvet-divider.svg" alt="" width="480">
 
 <br>
 
-Made with ☕ by **Anwar Ben Brahim** — open to AI & security opportunities
+Made with coffee by **Anwar Ben Brahim** — open to AI and security opportunities
 
 </div>
