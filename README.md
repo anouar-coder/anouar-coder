@@ -1,26 +1,26 @@
 <div align="center">
 
-  <img src="./assets/velvet-header.svg" alt="Anwar Ben Brahim — AI, Machine Learning and Cybersecurity" width="100%">
+  <img src="./assets/cyber-header.svg" alt="Anwar Ben Brahim — AI, Machine Learning and Cybersecurity" width="100%">
 
   <br><br>
 
   <a href="https://brilliant-cs-folio-a8p1.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio%20%E2%80%A2%20brilliant--cs--folio--a8p1.vercel.app-F0D98C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2A0620" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio%20%E2%80%A2%20brilliant--cs--folio--a8p1.vercel.app-39FF88?style=for-the-badge&logo=vercel&logoColor=0B1220&labelColor=0B1220" alt="Portfolio">
   </a>
   <a href="https://brilliant-cs-folio-a8p1.vercel.app/cv-anwar-ben-brahim.pdf">
-    <img src="https://img.shields.io/badge/Curriculum%20Vitae-F6E7B4?style=for-the-badge&logo=readdotcv&logoColor=4A0C45&labelColor=2A0620" alt="Download CV">
+    <img src="https://img.shields.io/badge/Curriculum%20Vitae-22D3EE?style=for-the-badge&logo=readdotcv&logoColor=0B1220&labelColor=0B1220" alt="Download CV">
   </a>
   <a href="https://www.linkedin.com/in/anwar-ben-brahim-68626034a/">
-    <img src="https://img.shields.io/badge/LinkedIn%20%E2%80%A2%20anwar--ben--brahim-C77BA8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2A0620" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn%20%E2%80%A2%20anwar--ben--brahim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1220" alt="LinkedIn">
   </a>
   <a href="mailto:anwar.benbrahim@etudiant-enit.utm.tn">
-    <img src="https://img.shields.io/badge/Email-F0D98C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2A0620" alt="Email">
+    <img src="https://img.shields.io/badge/Email-39FF88?style=for-the-badge&logo=gmail&logoColor=0B1220&labelColor=0B1220" alt="Email">
   </a>
 
   <br><br>
 
-  <img src="https://img.shields.io/badge/Status%20%E2%80%A2%20Open%20to%20Internships%20%26%20Research%20Collaborations-4CC38A?style=for-the-badge&labelColor=2A0620" alt="Open to internships">
-  <img src="https://img.shields.io/badge/Focus%20%E2%80%A2%20AI%20for%20Security-C77BA8?style=for-the-badge&labelColor=2A0620" alt="Focus">
+  <img src="https://img.shields.io/badge/Status%20%E2%80%A2%20Open%20to%20Internships%20%26%20Research%20Collaborations-39FF88?style=for-the-badge&labelColor=0B1220" alt="Open to internships">
+  <img src="https://img.shields.io/badge/Focus%20%E2%80%A2%20AI%20for%20Security-22D3EE?style=for-the-badge&labelColor=0B1220" alt="Focus">
 
 </div>
 
@@ -59,7 +59,7 @@ and reasoning about systems adversarially.
 
 ---
 
-<img src="./assets/velvet-divider.svg" alt="" width="620">
+<img src="./assets/cyber-divider.svg" alt="" width="620">
 
 ## AI and Machine Learning
 
@@ -125,7 +125,7 @@ the data.
 
 ---
 
-<img src="./assets/velvet-divider.svg" alt="" width="620">
+<img src="./assets/cyber-divider.svg" alt="" width="620">
 
 ## Cybersecurity
 
@@ -185,7 +185,7 @@ lists.
 
 ---
 
-<img src="./assets/velvet-divider.svg" alt="" width="620">
+<img src="./assets/cyber-divider.svg" alt="" width="620">
 
 ## Tech Stack
 
@@ -280,13 +280,13 @@ collaboration within development teams.
 <div align="center">
 
 <a href="https://github.com/anouar-coder?tab=repositories">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anouar-coder&show_icons=true&hide_border=true&bg_color=1A0620&title_color=F0D98C&text_color=EBD9EC&icon_color=C77BA8&stroke_color=1A0620&ring=6E1253&rank=-A" alt="Anwar Ben Brahim's GitHub stats" width="49%">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anouar-coder&show_icons=true&hide_border=true&bg_color=0B1220&title_color=39FF88&text_color=C9D7E8&icon_color=22D3EE&stroke_color=0B1220&ring=22D3EE&rank=-A" alt="Anwar Ben Brahim's GitHub stats" width="49%">
 </a>&nbsp;&nbsp;
 <a href="https://github.com/anouar-coder?tab=repositories">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=anouar-coder&layout=compact&hide_border=true&bg_color=1A0620&title_color=F0D98C&text_color=EBD9EC&stroke_color=1A0620" alt="Top languages" width="24%">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=anouar-coder&layout=compact&hide_border=true&bg_color=0B1220&title_color=39FF88&text_color=C9D7E8&stroke_color=0B1220" alt="Top languages" width="24%">
 </a>&nbsp;&nbsp;
 <a href="https://github.com/anouar-coder">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=anouar-coder&hide_border=true&background_color=1A0620&stroke_color=1A0620&ring=6E1253&fire=F0D98C&currStreakNum=C77BA8&sideLabels=C77BA8&currStreakLabel=C77BA8&sideNums=EBD9EC&dates=EBD9EC" alt="Contribution streak" width="27%">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=anouar-coder&hide_border=true&background_color=0B1220&stroke_color=0B1220&ring=22D3EE&fire=39FF88&currStreakNum=39FF88&sideLabels=22D3EE&sideNums=C9D7E8&currStreakLabel=22D3EE&dates=8BA3B8" alt="Contribution streak" width="27%">
 </a>
 
 </div>
@@ -318,10 +318,10 @@ Live project demos · case studies · certifications · full academic reports ·
 <br>
 
 <a href="https://brilliant-cs-folio-a8p1.vercel.app/">
-  <img src="https://img.shields.io/badge/Visit%20Portfolio-F0D98C?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2A0620" alt="Visit portfolio">
+  <img src="https://img.shields.io/badge/Visit%20Portfolio-39FF88?style=for-the-badge&logo=googlechrome&logoColor=0B1220&labelColor=0B1220" alt="Visit portfolio">
 </a>
 <a href="https://brilliant-cs-folio-a8p1.vercel.app/cv-anwar-ben-brahim.pdf">
-  <img src="https://img.shields.io/badge/Download%20CV-F6E7B4?style=for-the-badge&logo=readdotcv&logoColor=4A0C45&labelColor=2A0620" alt="Download CV">
+  <img src="https://img.shields.io/badge/Download%20CV-22D3EE?style=for-the-badge&logo=readdotcv&logoColor=0B1220&labelColor=0B1220" alt="Download CV">
 </a>
 
 </div>
@@ -335,18 +335,18 @@ Open to **internships**, **stages** and **research collaborations** on AI or sec
 <div align="center">
 
 <a href="https://github.com/anouar-coder">
-  <img src="https://img.shields.io/badge/GitHub%20%E2%80%A2%20anouar--coder-F0D98C?style=for-the-badge&logo=github&logoColor=white&labelColor=2A0620" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub%20%E2%80%A2%20anouar--coder-39FF88?style=for-the-badge&logo=github&logoColor=0B1220&labelColor=0B1220" alt="GitHub">
 </a>
 <a href="https://www.linkedin.com/in/anwar-ben-brahim-68626034a/">
-  <img src="https://img.shields.io/badge/LinkedIn%20%E2%80%A2%20Connect-C77BA8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2A0620" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn%20%E2%80%A2%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1220" alt="LinkedIn">
 </a>
 <a href="mailto:anwar.benbrahim@etudiant-enit.utm.tn">
-  <img src="https://img.shields.io/badge/Email%20%E2%80%A2%20Say%20Hello-F0D98C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2A0620" alt="Email">
+  <img src="https://img.shields.io/badge/Email%20%E2%80%A2%20Say%20Hello-22D3EE?style=for-the-badge&logo=gmail&logoColor=0B1220&labelColor=0B1220" alt="Email">
 </a>
 
 <br><br>
 
-<img src="./assets/velvet-divider.svg" alt="" width="480">
+<img src="./assets/cyber-divider.svg" alt="" width="480">
 
 <br>
 
