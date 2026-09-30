@@ -304,14 +304,6 @@ collaboration within development teams.
 
 </div>
 
-<br>
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/anouar-coder/anouar-coder/output/github-contribution-grid-snake.svg" alt="Contribution graph" width="100%">
-
-</div>
-
 ---
 
 ## 📦 Repositories
